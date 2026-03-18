@@ -30,14 +30,14 @@ Built with **Streamlit, Pinecone, Sentence Transformers, and Groq LLM**.
 ## ⚙️ Setup Instructions
 
 ### 1. Clone Repository
-git clone https://github.com/your-username/ai-rag-chatbot.git
+git clone (https://github.com/PCJADHAV/AI-RAG-Chatbot.git)
 cd ai-rag-chatbot
 
 ### 2. Install Dependencies
 pip install -r requirements.txt
 
 ### 3. Create .env File
-groq_api_key=your_groq_api_key
+groq_api_key=your_groq_api_key, 
 pinecone_api_key=your_pinecone_api_key
 
 ### 4. Run the App
