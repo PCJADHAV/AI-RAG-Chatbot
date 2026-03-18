@@ -8,12 +8,12 @@ Built with **Streamlit, Pinecone, Sentence Transformers, and Groq LLM**.
 
 ## 🚀 Features
 
-* 💬 Interactive chatbot UI (Streamlit)
-* 🔍 Semantic search using embeddings
-* 🧠 Context-aware AI responses
-* ⚡ Fast retrieval using Pinecone vector DB
-* 🗂 Multi-chat session support
-* 🎨 Clean and responsive UI
+*  Interactive chatbot UI (Streamlit)
+*  Semantic search using embeddings
+*  Context-aware AI responses
+*  Fast retrieval using Pinecone vector DB
+*  Multi-chat session support
+*  Clean and responsive UI
 
 ---
 
