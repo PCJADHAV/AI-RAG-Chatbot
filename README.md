@@ -31,7 +31,7 @@ Built with **Streamlit, Pinecone, Sentence Transformers, and Groq LLM**.
 
 ### 1. Clone Repository
 git clone (https://github.com/PCJADHAV/AI-RAG-Chatbot.git)
-cd ai-rag-chatbot
+cd AI-RAG-Chatbot
 
 ### 2. Install Dependencies
 pip install -r requirements.txt
